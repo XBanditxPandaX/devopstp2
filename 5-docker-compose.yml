@@ -4,4 +4,4 @@ services:
     ports:
       - 2021:3000
     volumes:
-      - ${PWD}/convos:/data
+      - C:/Users/themi/Desktop/CoursM1/DevOps/Docker/convos:/data
